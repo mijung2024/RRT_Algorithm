@@ -5,6 +5,9 @@
 - [Plotly](https://plot.ly/python/getting-started/) (only needed for plotting)
 
 
-python setup.py install \n
+
+python setup.py install 
+\\\
 phyton setup.py develop
+
 
